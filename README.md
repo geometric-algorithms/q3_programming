@@ -50,7 +50,6 @@ Both structures aim to optimize 2D rectangular range queries, where the goal is 
 
 ```bash
 chmod +x test.sh
-
 ./test.sh
 
 
